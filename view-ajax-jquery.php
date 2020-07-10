@@ -199,7 +199,7 @@ function reset() {
                         icon: "success",
                         });
     
-                    // setTimeout(function(){window.location = window.location}, 5000);
+                
                 }
             })
         })
