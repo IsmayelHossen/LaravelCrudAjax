@@ -193,6 +193,7 @@ function reset() {
                 success: function () {
                     //console.log('deleted');
                     collectrecords();
+                    //sweet alert message
                     swal({
                         
                         text: "Data Successfully Deleted",
